@@ -1,0 +1,29 @@
+th,td{
+	
+	border: 1px solid black;
+   }
+#tab1
+{
+border: 1px solid black;    
+height: 100px;
+width:600px;
+margin-left: 350px;
+}
+#tab2
+{
+ 
+border: 1px solid black;
+height: 100px;
+width:300px;
+margin-left: 500px;
+}
+#tab3
+{
+ border: 1px solid black;
+ height: 100px;
+ width:300px;
+ margin-left: 500px;
+}
+h1{
+    text-align: center;
+}
